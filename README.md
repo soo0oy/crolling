@@ -3,13 +3,14 @@ mini project about crolling
 
 OPEN API 문서 보는 방법
 
-[image](https://user-images.githubusercontent.com/46236112/172041571-f4f53521-e713-416f-b6e0-357242ca4f54.png)
+![image](https://user-images.githubusercontent.com/46236112/172041571-f4f53521-e713-416f-b6e0-357242ca4f54.png)
+
 
  
 OPEN API: 제공처에서 backend를 만들어 놓고, 그 backend를 이용하는 방법을 제공
                    => backend 주소와 사용 규칙만 알면 backend 자원 사용 가능
 
-[image](https://user-images.githubusercontent.com/46236112/172041633-bfd9c9d1-e027-407f-890a-9c74c0f99827.png)
+![image](https://user-images.githubusercontent.com/46236112/172041633-bfd9c9d1-e027-407f-890a-9c74c0f99827.png)
 
 
 
